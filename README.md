@@ -1,16 +1,39 @@
-# anime_streaming_app
+# Anime UI App
 
-A new Flutter project.
+A **mini Flutter application** built with **Clean Architecture principles**.  
+The main purpose of this project is to implement the given UI design **pixel-perfect** while keeping the codebase clean, scalable, and maintainable.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Pixel-perfect UI implementation using Flutter widgets.  
+- Organized project structure following **Clean Architecture**.  
+- Separation of concerns for better scalability and testability.  
+- Clean and readable code.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗️ Project Structure
+The project follows the **Clean Architecture** pattern, organized into two main layers:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Data Layer** → Data models and repository.  
+- **Presentation Layer** → UI screens, widgets, and utils.  
+
+
+This separation ensures flexibility and makes the project easier to maintain.
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (UI framework)  
+- **Dart** (Programming language)  
+- **Clean Architecture** (Project structure)  
+
+---
+
+## 📹 Demo
+<video src="https://github.com/user-attachments/assets/0d46f945-ae3e-4ba2-8443-a7fc03c1510d"width="350" controls></video>
+---
+
+## 📦 How to Run
+1. Clone the repository
