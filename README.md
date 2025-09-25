@@ -32,7 +32,7 @@ This separation ensures flexibility and makes the project easier to maintain.
 ---
 
 ## 📹 Demo
-<video src="https://github.com/user-attachments/assets/0d46f945-ae3e-4ba2-8443-a7fc03c1510d"width="350" controls></video>
+<video src="https://github.com/user-attachments/assets/0d46f945-ae3e-4ba2-8443-a7fc03c1510d" width="350" controls></video>
 ---
 
 ## 📦 How to Run
